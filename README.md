@@ -1,27 +1,23 @@
 # Varmuuskopiointityökalu
 
-Tämä projekti on tehty TAK-näyttöä varten.
+Tekijä: Tuukka
+Kurssi: TAK
 
-## Tarkoitus
+## Projektin tarkoitus
 
-Projektin tarkoituksena on automatisoida tiedostojen ja kansioiden varmuuskopiointia Linux-ympäristössä.
+Tämän projektin tarkoituksena on automatisoida tiedostojen ja kansioiden
+varmuuskopiointia Linux-ympäristössä.
+
+## Automatisoitavat tehtävät
+
+- Tiedostojen ja kansioiden varmuuskopiointi
+- Varmuuskopioinnin suorittaminen skriptillä
+- Virhetilanteiden tarkistaminen
+- Lokitietojen kirjoittaminen
 
 ## Ominaisuudet
 
-- Varmuuskopiointi skriptillä
-- Funktioiden käyttö
-- Virhetilanteiden tarkistus
-- Lokitietojen kirjoittaminen
-- Git-versionhallinta
-
-## Käyttö
-
-Projektin tiedostot voidaan suorittaa Ubuntu Linuxissa terminaalin kautta.
-
-## Git ja GitHub
-
-Projektissa käytetään Git-versionhallintaa ja muutokset tallennetaan GitHubiin committeina.
-
-## Tekijä
-
-TAK-näyttöprojekti
+- Käyttää funktioita
+- Sisältää virheentarkistuksen
+- Automatisoi ylläpitotehtäviä
+- Käyttää Git-versionhallintaa
